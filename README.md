@@ -1,5 +1,8 @@
 # Notes
 
+me working through [this](https://github.com/verekia/js-stack-from-scratch)
+
+
 http://eslint.org/docs/rules/semi
 
 babel-node can run es6 code in node, should not be used in production
