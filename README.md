@@ -12,7 +12,7 @@ compat, eslint plugin that warns you if you use js apis that are not available i
 nodemon for restarting server when files change
 
 pm2 for keeping process alive in production and adds features to manage and monitor
- - runs in the k
+ - runs in the background, the log command gets a stream of logs 
 ## TODO
 vim setup
 - eslint -> needs to use the one in your node modules
