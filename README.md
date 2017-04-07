@@ -19,9 +19,8 @@ babel-plugin-flow-react-proptypes: automatically add proptypes from flow annotat
 redux-actions: creates action creators which returns object with type and payload
 
 Components are dumb react components, don't know about redux state, Containers are smart and know about the state
-## TODO
-vim setup
-- eslint -> needs to use the one in your node modules
-- yarn setup with vim
+
+react-helmet: has side effects on client side and on server you can query the state and do what you want with it 
+
 how does the client code get isProd?
 - because when you build it has env=production
